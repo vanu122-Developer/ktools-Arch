@@ -1,3 +1,11 @@
+# Build 
+
+Need install sudo imagemagick library
+
+cd build/ 
+cmake ..
+
+
 # ktools
 
 A set of cross-platform modding tools for the game [Don't Starve](http://www.dontstarvegame.com/), by [Klei Entertainment](http://kleientertainment.com/).
