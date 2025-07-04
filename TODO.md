@@ -1,0 +1,1 @@
++ ZIP support via libarchive.
